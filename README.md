@@ -25,7 +25,8 @@ FinSage AI is a Multi-Agent Financial Analyst that simplifies investing by turni
 ![Workflow](https://github.com/ShikharPatelNEU/FinSage-AI/blob/main/finsage_architecture.png)
 
 
-Project Structure
+## Project Structure
+'''
 📦 FinSage-AI
 ├─ README.md
 ├─ Documentation
@@ -41,3 +42,4 @@ Project Structure
 │  └─ test_financial_tools.py
 ├─ Dockerfile
 └─ docker-compose.yml
+'''
